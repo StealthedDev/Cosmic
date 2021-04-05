@@ -12,7 +12,7 @@
 # <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/pwrup_pins.gif"> Installation
 
 
-<a href="https://github.com/devraizer/Cosmic/wiki/Installation---Debian-9,-Morningstar-Arcturus-&-Catalogue---Cosmic">Installation Debian 9, Morningstar Arcturus & Catalogue Cosmic</a>
+<a href="https://github.com/Xillixis/Cosmic/wiki/Debian-10-Installation">Debian 10 Installation</a>
 
 <a href="https://github.com/devraizer/Cosmic/wiki/Installation---Windows,-Morningstar-Arcturus-&-Catalogue---Cosmic">Windows, Morningstar Arcturus & Catalogue Cosmic</a>
 
